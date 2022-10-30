@@ -1,0 +1,7 @@
+﻿{
+  "name": "Castle.VContainer",
+  "rootNamespace": "Castle",
+  "references": ["VContainer", "VContainer.Extensions"],
+  "overrideReferences": true,
+  "precompiledReferences": ["Castle.Core.dll"]
+}

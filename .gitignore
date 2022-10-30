@@ -1,0 +1,58 @@
+# Build folders
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.UserSettings
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# JetBrains Rider
+.idea/
+*.DotSettings*
+
+# MonoDevelop
+*.userprefs
+
+# Visual Studio
+.vs/
+.vsconfig
+
+# Visual Studio Code
+.vscode/
+
+# Unity
+/src/Castle.VContainer/Library/
+/src/Castle.VContainer/Logs/
+/src/Castle.VContainer/Temp/
+/src/Castle.VContainer/UserSettings/
+
+/src/Castle.VContainer/*.csproj
+/src/Castle.VContainer/*.sln
+/src/Castle.VContainer/Packages/packages-lock.json
+
+# Unity Addressables
+/src/Castle.VContainer/Assets/AddressableAssetsData/*/*.bin*
+/src/Castle.VContainer/Assets/AddressableAssetsData/link.xml*
+
+# Unity CodeCoverage
+/src/Castle.VContainer/CodeCoverage/
+/src/Castle.VContainer/ProjectSettings/Packages/com.unity.testtools.codecoverage/
+
+# Unity Recordings
+/src/Castle.VContainer/Recordings/
+
+# Unity UI Toolkit
+/src/Castle.VContainer/UIElementsSchema/
+
+# Unity NuGet importer
+/src/Castle.VContainer/NuGet/
+/src/Castle.VContainer/Packages/*
+/src/Castle.VContainer/ProjectSettings/existingPackages.xml
+/src/Castle.VContainer/ProjectSettings/packageAsmNames.json
+/src/Castle.VContainer/ProjectSettings/rootPackages.xml
+
+!/src/Castle.VContainer/Packages/manifest.json
+!/src/Castle.VContainer/Packages/Castle.VContainer

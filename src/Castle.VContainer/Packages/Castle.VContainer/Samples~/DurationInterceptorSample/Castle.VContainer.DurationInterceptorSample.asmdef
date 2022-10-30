@@ -1,0 +1,11 @@
+﻿{
+  "name": "Castle.VContainer.DurationInterceptorSample",
+  "rootNamespace": "Castle.DynamicProxy.DurationInterceptorSample",
+  "references": [
+    "Castle.VContainer",
+    "VContainer"
+  ],
+  "overrideReferences": true,
+  "precompiledReferences": ["Castle.Core.dll"],
+  "autoReferenced": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "com.chikastory.castle-core.vcontainer",
+  "displayName": "Castle.VContainer",
+  "author": { "name": "Chika Chang", "url": "https://chikastory.com" },
+  "version": "0.0.0-development",
+  "unity": "2021.3",
+  "description": "VContainer Integration for Castle.",
+  "license": "MIT",
+  "category": "Scripting",
+  "dependencies": {
+    "com.chikastory.vcontainer.extensions": "0.0.0-development",
+    "jp.hadashikick.vcontainer": "1.11.1",
+    "nuget.castle-core": "1.0.1"
+  },
+  "samples": [{ "displayName": "Duration Interceptor", "path": "Samples~/DurationInterceptorSample" }]
+}
